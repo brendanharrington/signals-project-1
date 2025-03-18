@@ -1,0 +1,41 @@
+# MATLAB & Simulink temporary files
+*.asv
+*.mex*
+*.p
+*.mlx
+*.slxc
+*.slxp
+*.slx.autosave
+*.mdl.autosave
+*_slprj/
+slprj/
+sccprj/
+resources/
+codegen/
+*_ert_rtw/
+*_grt_rtw/
+
+# MATLAB project files
+*.SimulinkProject/
+*.simulink/
+
+# Backup files
+*.bak
+*.backup
+
+# Operating System files
+.DS_Store
+Thumbs.db
+
+# Logs and generated files
+*.log
+*.tmp
+
+# Temporary files
+~*
+
+# Hidden system files
+._*
+
+# Ignore figures (if you prefer not to version-control images)
+*.fig
