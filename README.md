@@ -1,10 +1,9 @@
-# 🚗 Moon Rover System Modeling Project
+# Moon Rover System Modeling Project
 
 ## Overview
 
 This project is part of the ECEN 3301 Biomedical Signals and Systems course, aimed at understanding and simulating linear time-invariant (LTI) systems. Specifically, this project involves modeling the dynamics of a rover sent to the moon to collect rock samples. Students will derive theoretical equations of motion, implement numerical simulations in Simulink, and design optimized control inputs to fulfill specific mission goals.
 
----
 
 ## Project Goals
 
@@ -12,7 +11,6 @@ This project is part of the ECEN 3301 Biomedical Signals and Systems course, aim
 - Implement and verify simulations of system responses in MATLAB Simulink.
 - Design and optimize system inputs to achieve specific mission criteria (distance, payload).
 
----
 
 ## Project Structure
 
@@ -35,7 +33,6 @@ MoonRover_System_Modeling
 └── README.md
 ```
 
----
 
 ## Project Tasks & Milestones
 
@@ -58,7 +55,6 @@ MoonRover_System_Modeling
 - Compile detailed documentation
 - Submit clearly structured final report
 
----
 
 ## Getting Started
 
@@ -71,17 +67,14 @@ git clone [your-repo-link]
 
 3. Document your process and results clearly in Markdown files provided in the `docs` and `results` folders.
 
----
 
 ## Important Dates
 
 - **Project Due Date:** March 21, 2025 (11:59 pm)
 
----
 
 ## 🔗 Useful Resources
 - [MATLAB Documentation](https://www.mathworks.com/help/matlab/)
 - [Simulink Basics](https://www.mathworks.com/help/simulink/)
 - [CTMS Examples (University of Michigan)](https://ctms.engin.umich.edu/)
 
----
