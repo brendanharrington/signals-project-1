@@ -40,5 +40,5 @@ Thumbs.db
 # Ignore figures (if you prefer not to version-control images)
 *.fig
 
-# prompt
- Project1.pdf
+# PDF files
+*.pdf
